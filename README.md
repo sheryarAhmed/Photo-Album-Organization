@@ -50,14 +50,6 @@ Follow these steps to run the Photo Album Organizer:
 5. **Organized Output:**
    - The application automatically moves images into labeled folders based on their assigned clusters.
 
-## Project Structure
-
-- `photo_organizer.py`: Main script containing the PhotoAlbumOrganizer class and the Tkinter GUI setup.
-- `README.md`: Project documentation in markdown.
-- `Manual.pdf`: Project documentation in PDF manual.
-- `requirements.txt`: List of Python dependencies.
-- `images/`: Sample images for testing the application.
-
 ## Dependencies
 
 - `tkinter`
