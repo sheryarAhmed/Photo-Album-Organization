@@ -174,6 +174,7 @@ class PhotoAlbumOrganizer:
 
 
 if __name__ == "__main__":
+    # Target Images
     TARGET = (100, 100)  # Assuming this is a global variable
 
     root = tk.Tk()
