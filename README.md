@@ -63,6 +63,8 @@ Follow these steps to run the Photo Album Organizer:
 
 - Ensure that you have Python installed on your system.
 - The target size for image resizing is set as (100, 100) in the script. You can modify this value based on your preferences.[Photo Organizer](./photo_organizer.py)
-
+## Contact US 
+* Sheryar Ahmed (sheryarali755@gmail.com)
+* Syed Ali Hussain (notali855@gmail.com)
 
 Feel free to explore and customize the Photo Album Organizer to suit your needs!
