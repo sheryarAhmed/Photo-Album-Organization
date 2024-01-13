@@ -4,6 +4,9 @@
 
 The Photo Album Organizer is a Python application designed to automate the organization of photo collections. Leveraging the K-Means clustering algorithm, the application categorizes images into clusters based on visual similarities. This README provides instructions on how to run the project and an overview of its functionalities.
 
+## UI 
+![](Image.png) 
+
 ## Features
 
 - **User-Friendly Interface:** The application provides a simple and intuitive graphical user interface using the Tkinter library.
@@ -12,7 +15,8 @@ The Photo Album Organizer is a Python application designed to automate the organ
 - **Image Movement:** Organize images by moving them into labeled folders based on their assigned clusters.
 
 ## Working 
-[![Photo_Album]({./Content/video.mp4})]({./Content/Image.png} "Video")
+![part1](part1.gif)
+![part2](part2.gif)
 
 ## How to Run the Project
 
